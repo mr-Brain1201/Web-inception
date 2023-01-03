@@ -1,0 +1,20 @@
+body {
+     font-family: 'Oswald', sans-serif;
+     background-color: lightgray;
+     width: 60%;
+     padding-left: 20%;
+}
+
+a {text-decoration: none;
+    color: navy;
+}
+a:hover {text-decoration: underline;}
+
+h1 {font-size: 64 px;
+    color: brown
+}
+li {font-size: 20 px;
+    color: darkred;
+}
+
+img {width: 60%}
